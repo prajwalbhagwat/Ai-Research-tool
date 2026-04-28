@@ -4,7 +4,7 @@
 window.API_CONFIG = {
     // Required API Keys
     SERPER_API_KEY: '5d059fba27505f60aa61fa42db50d33fea304a3a',
-    GROQ_API_KEY: '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',
+    GROQ_API_KEY: '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',
     
     // Optional API Keys (for AI model comparison)
     OPENAI_API_KEY: '',  // Leave empty if not using ChatGPT comparison
